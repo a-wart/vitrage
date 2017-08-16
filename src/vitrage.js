@@ -1,7 +1,6 @@
 /* Vitrage 0.0.2
  * A. Wart
- * https://github.com/ScottHamper/Cookies
- * Free to use under the WTFPL license (http://www.wtfpl.net/)
+ * MIT
  */
 
 ;(function(window, undefined) {
